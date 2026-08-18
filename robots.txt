@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-wfghpq.salamduit.online/sitemap.xml
